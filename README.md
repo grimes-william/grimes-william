@@ -8,7 +8,30 @@ If you'd like to learn more about me, click the banner to visit my personal webs
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/william-grimes-47b263140/)
 
-#  :pencil2: Blog Updates
+# :pencil2: Blog Updates
   * *July Update coming soon!*
   * [June Update](https://williamgrimes.me/june-update/)
   * [Welcome to my site!](https://williamgrimes.me/welcome-to-my-site/)
+
+# :dart: Skills
+
+[![C++]()]()
+[![Java]()]()
+[![Javascript]()]()
+[![Python]()]()
+[![HTML5]()]()
+[![CSS]()]()
+[![MySQL]()]()
+[![MongoDB]()]()
+
+<details>
+<summary>Soft Skills</summary>
+ [![Communication]()]()
+ [![Patience]()]()
+ [![Time Management]()]()
+ [![Accountable]()]()
+ [![Motivated]()]()
+ [![Critical Thinking]()]()
+ [![Team Work]()]()
+ [![Adept]()]()
+</details>
