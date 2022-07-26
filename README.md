@@ -15,12 +15,12 @@ If you'd like to learn more about me, click the banner to visit my personal webs
 
 # :dart: Skills
 
-![](https://img.shields.io/badge/Code-C%2B%2B-blueviolet?logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/Code-JavaScript-blueviolet?logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-blueviolet?logo=Python&logoColor=white)
-![](https://img.shields.io/badge/Code-HTML5-blueviolet?logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Code-MySQL-blueviolet?logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Code-MongoDB-blueviolet?logo=Mongodb&logoColor=white)
+![](https://img.shields.io/badge/Code-C%2B%2B-red?logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-red?logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-red?logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Code-HTML5-red?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Code-MySQL-red?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Code-MongoDB-red?logo=Mongodb&logoColor=white)
 
 <br>
 
@@ -30,3 +30,14 @@ If you'd like to learn more about me, click the banner to visit my personal webs
 ![](https://img.shields.io/badge/OS-SUSE-blue?logo=suse&logoColor=white)
 ![](https://img.shields.io/badge/Script-GNU%20Bash-blue?logo=gnubash&logoColor=white)
 ![](https://img.shields.io/badge/Script-Powershell-blue?logo=powershell&logoColor=white)
+
+# :bulb: Soft Skills
+
+![](https://img.shields.io/badge/SS-Communication-blueviolet)
+![](https://img.shields.io/badge/SS-Patience-blueviolet)
+![](https://img.shields.io/badge/SS-Time%20Management-blueviolet)
+![](https://img.shields.io/badge/SS-Accountable-blueviolet)
+![](https://img.shields.io/badge/SS-Motivated-blueviolet)
+![](https://img.shields.io/badge/SS-Critical%20Thinking-blueviolet)
+![](https://img.shields.io/badge/SS-Team%20Work-blueviolet)
+![](https://img.shields.io/badge/SS-Adept-blueviolet)
