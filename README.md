@@ -22,19 +22,11 @@ If you'd like to learn more about me, click the banner to visit my personal webs
 ![](https://img.shields.io/badge/Code-MySQL-blueviolet?logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Code-MongoDB-blueviolet?logo=Mongodb&logoColor=white)
 
-<details>
-<summary>OS</summary>
-![](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
-</details>
+<br>
 
-<details>
-<summary>Soft Skills</summary>
- ![Communication]()
- [![Patience]()]()
- [![Time Management]()]()
- [![Accountable]()]()
- [![Motivated]()]()
- [![Critical Thinking]()]()
- [![Team Work]()]()
- [![Adept]()]()
-</details>
+![](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
+![](https://img.shields.io/badge/OS-Debian-blue?logo=debian&logoColor=white)
+![](https://img.shields.io/badge/OS-RHEL-blue?logo=rhel&logoColor=white)
+![](https://img.shields.io/badge/OS-SUSE-blue?logo=suse&logoColor=white)
+![](https://img.shields.io/badge/Script-GNU%20Bash-blue?logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/Script-Powershell-blue?logo=powershell&logoColor=white)
