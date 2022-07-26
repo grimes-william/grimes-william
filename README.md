@@ -15,18 +15,21 @@ If you'd like to learn more about me, click the banner to visit my personal webs
 
 # :dart: Skills
 
-[![C++]()]()
-[![Java]()]()
-[![Javascript]()]()
-[![Python]()]()
-[![HTML5]()]()
-[![CSS]()]()
-[![MySQL]()]()
-[![MongoDB]()]()
+![](https://img.shields.io/badge/Code-C%2B%2B-blueviolet?logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-blueviolet?logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-blueviolet?logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Code-HTML5-blueviolet?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Code-MySQL-blueviolet?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Code-MongoDB-blueviolet?logo=Mongodb&logoColor=white)
+
+<details>
+<summary>OS</summary>
+![](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
+</details>
 
 <details>
 <summary>Soft Skills</summary>
- [![Communication]()]()
+ ![Communication]()
  [![Patience]()]()
  [![Time Management]()]()
  [![Accountable]()]()
