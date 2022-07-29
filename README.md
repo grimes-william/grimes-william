@@ -10,7 +10,7 @@ If you'd like to learn more about me, click the banner to visit my personal webs
 
 # :pencil2: Blog Updates
   * *July Update coming soon!*
-  * [June Update](https://williamgrimes.me/june-update/target="_blank")
+  * [June Update](https://williamgrimes.me/june-update/)
   * [Welcome to my site!](https://williamgrimes.me/welcome-to-my-site/)
 
 # :dart: Skills
