@@ -6,7 +6,7 @@ Hi!  My name is William Grimes and I am currently an IT Support Technician II wh
 
 If you'd like to learn more about me, click the banner to visit my personal website or follow the tab below to visit my LinkedIn profile!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/william-grimes-47b263140/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/william-b-grimes/)
 
 # :pencil2: Blog Updates
   * *July Update coming soon!*
