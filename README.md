@@ -9,7 +9,7 @@ If you'd like to learn more about me, click the banner to visit my personal webs
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/william-b-grimes/)
 
 # :pencil2: Blog Updates
-  * *July Update coming soon!*
+  * [July/August Update](https://williamgrimes.me/july-august-update/)
   * [June Update](https://williamgrimes.me/june-update/)
   * [Welcome to my site!](https://williamgrimes.me/welcome-to-my-site/)
 
